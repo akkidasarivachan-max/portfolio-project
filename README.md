@@ -15,6 +15,7 @@ GitHub CLI
 Command-line tool for GitHub login and repository setup
 GitHub
 Online platform for hosting public repositories
+
 What Steps I Completed
 Installed Cursor IDE from cursor.com.
 Opened Extensions in Cursor (Ctrl+Shift+X), searched for Claude Code, installed it, and signed in with my Anthropic account.
@@ -24,6 +25,7 @@ Created a public GitHub repository for this project.
 Opened this repository in Cursor using File → Open Folder.
 Created this README.md file.
 Committed and pushed the project to GitHub.
+
 What Issues I Ran Into and How I Solved Them
 Git was not installed
 Issue: The terminal showed 'git' is not recognized as an internal or external command.
